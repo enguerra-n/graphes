@@ -14,4 +14,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: chemin fichier
-        path: results/
+        path: results/graph.html
